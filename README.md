@@ -1,5 +1,7 @@
-# Moscow WebAssembly meetup №1
+# Дополнительные материалы к докладу
 
-## Links
+Moscow WebAssembly meetup №1, Rust и WebAssembly
 
-## Examples
+## Ссылки
+
+## Примеры
