@@ -4,8 +4,10 @@ Moscow WebAssembly meetup №1, Rust и WebAssembly
 
 ## Ссылки
 
-- https://www.rust-lang.org/
+- https://www.rust-lang.org
 - https://github.com/rustwasm
+- https://www.arewewebyet.org/topics/webassembly
+- https://crates.io/crates/wasm-tracing-allocator
 
 ## Примеры
 
